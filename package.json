@@ -1,0 +1,29 @@
+{
+  "name": "exel_v",
+  "version": "1.0.0",
+  "description": "exel course pure JS",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justrom4eg/Exel_v.git"
+  },
+  "keywords": [
+    "js",
+    "exel",
+    "webpack"
+  ],
+  "author": "Roman Maik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justrom4eg/Exel_v/issues"
+  },
+  "homepage": "https://github.com/justrom4eg/Exel_v#readme",
+  "private": false,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
